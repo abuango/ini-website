@@ -1,7 +1,7 @@
 ---
 title: "Indonesia: Where Every Island Speaks"
 date: 2025-09-18
-slug: indonesia-where-every-island-speaks.md
+slug: indonesia-where-every-island-speaks
 author: Aisha Shaibu-Salami
 ---
 
